@@ -5,4 +5,6 @@ Projeto do curso <a href="https://www.origamid.com/curso/web-design-completo/">W
 
 Projeto realizado com o intuito de praticar a produção de páginas na web.
 
+<img src="./github/bikcraft.gif" width="800">
+
 Me siga no <a href="https://www.linkedin.com/in/jose-de-souza/">Linkedin</a>
